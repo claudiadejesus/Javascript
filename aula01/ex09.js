@@ -1,5 +1,5 @@
 var país = 'EUA'
-
+    console.log()
 if (país != 'Brasil') {
     console.log('Você é Brasileiro')
 } else {
